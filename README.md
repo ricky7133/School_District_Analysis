@@ -4,8 +4,12 @@ The purpose of this analysis was to focus on math and reading scores for a distr
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
--  
-# How is the school summary affected?
+#How is the school summary affected?
+Original Analysis:
+![This is an image](https://github.com/ricky7133/School_District_Analysis/blob/main/Resources/Before.png)
+Analysis After:
+![This is an image](https://github.com/ricky7133/School_District_Analysis/blob/main/Resources/After.png)
+
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 # How does replacing the ninth-grade scores affect the following:
 # Math and reading scores by grade
