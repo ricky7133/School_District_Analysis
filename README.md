@@ -34,6 +34,6 @@ The school summary is affected in the areas of:
 ![This is an image](https://github.com/ricky7133/School_District_Analysis/blob/main/Resources/Spending%20Range%20(after).png)
 - The analysis of this data shows us that the spending summary does not change between the original data and the adjusted data.
 # Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+As we can see, the adjusted analysis changes very little when we took out the grades for the ninth-graders at Thomas High School. 
 
 
